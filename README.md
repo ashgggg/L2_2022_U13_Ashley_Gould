@@ -65,17 +65,35 @@
 # fonts
 
 # main
-+ I will be using Breeze Sans font because it is used by Samsung and Samsung is a popular phone company.
++ I will be using Arial font because it is on Office 365
 + I searched for a website called fontesk and downloaded the font
 + https://fontesk.com/breeze-sans-font-family/
-+ Also I might use Arial because it's popular   
+  
 
 
 
 # second option
 + The second font I will be using is callled Roboto because it was developed by google.
 + I used Google fonts to get this font
-+ https://fonts.google.com/?query=Roboto
++ https://fontesk.com/breeze-sans-font-family/
+
+# story board
++ # Story Board
+(1)<img src="img/readme/home page.PNG">
++ (2)<img src="img/readme/home page.PNG">
+
+# review
++ Aiden
+The buttons look neat and clean, could do with highlight when hovering over.
+The Phone products look nice, It's very visible and prominent, missing a buy button and clear price tag.
+
+Overall 8/10, could do with improvements.
+
++ Nojus
+Website looks modern clean and professional, 
+Would look better with highlight when hovering over products as well as a login/register and basket/cart
++ Harry
+While providing a variety of the latest flagship phones, the site contains a lot of errors. From misspellings to various inaccuracies in the spec sheets. Some buttons take you to the wrong page and the font doesn't fit that of an average online storefront.
 
 # copyright
 + Samsung Z Fold https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Z_Fold_3_0.jpg
@@ -95,67 +113,43 @@
 
 
 # videos
++ iphone 11 <iframe width="1280" height="640" src="https://www.youtube.com/embed/OoY7zp8GkLI" </iframe>
 + iphone 12: <iframe width="1280" height="640" src="https://www.youtube.com/embed/Sx6dAx7dnXg" </iframe>
 + iphone 13: <iframe width="1280" height="640" src="https://www.youtube.com/embed/Fop2oskTug8" </iframe>
-+ samsung s21 <iframe width="1237" height="696" src="https://www.youtube.com/embed/LjzkSwyRoxY" </iframe> 
++ samsung s21 <iframe width="1237" height="696" src="https://www.youtube.com/embed/LjzkSwyRoxY" </iframe>
+
++ samsung s22 <iframe width="1046" height="523" src="https://www.youtube.com/embed/qWIkBMNKj1s" iframe></div>
+ 
+ + Samsung Z fold 3 <iframe width="1046" height="523" src="https://www.youtube.com/embed/iLLi02P1FN4"iframe></div>
+
+ + Huawie P30 pro <iframe width="1280" height="720" src="https://www.youtube.com/embed/5CwDb6YD3sQ" </iframe>
+ + LG G7 Thinq <iframe width="1280" height="640" src="https://www.youtube.com/embed/Sx6dAx7dnXg" /iframe>
+
+ + Motorola G200  <iframe width="1280" height="720" src="https://www.youtube.com/embed/mQRVQCnEIqQ" /iframe>
+
+ + Nokia XR20 <iframe width="1280" height="720" src="https://www.youtube.com/embed/KIlcBm5RpsI" /iframe>
+ 
+ + alcatel 3l <iframe width="1280" height="720" src="https://www.youtube.com/embed/KjA55DlvepA" iframe></div>
+
  
 # navagation
 + when you click on a photo a seperate tab will open revealing more information about the product
 
-+ on the support page I am working on making the logos of the social medias to workn (instagram, facebook, twitter)
++ on the support tab the logos work as links to open their pages (havent fixed the facebook link)
 
-+ To navigate on the home page just click on the phone and that phone page will apear. Same applys for (contact, accessoires and store)
+
 
 &check;
-            |home   |search| |logo | accessories| information| help 
-home        |
-            |
-search      |
-            |
-logo        |
-            |
-accessories |
-            |
-information |
-            |
-help        |
+everything works exept form the facebook logo and the accessories link
 
 # measurements for the first website
-+ logo height 130px width 108 px
-+ search bar height 40px width 291px
-+ sign up logo height 130px width 108p
-+ information box height 101px width 279px
-+ information height 105.78 px width 277.69 px
-+ accessories, sims and offers box height 125 px width 743 px
-+ offers height 52.18 px width 119.95 px 
-+ accessories height 52.18 px width 229.82 px
-+ sims height 77.81px width 143.53 px
-+ samsung s21 front height 182px width 87px
-+ samsung s21 back height 180px width 84
-+ Iphone 13 height 240px width 176 px
-+ huawei p40 pro front height 101px width 84px
-+ huawei p40 pro back height 181px width 84px
-+ apple logo height 53px width 66px
-+ samsung logo height 49px width 186px
-+ huawei logo height 62px width 240px
 
-# Story Board
-<img src="img/readme/home page.PNG">
+
+
+
 
 # this website is for my my assignment and it is to be viewed on github
 
 # To be designed at a later date
 + Functional social media
 
-# review
-+ Aiden
-The buttons look neat and clean, could do with highlight when hovering over.
-The Phone products look nice, It's very visible and prominent, missing a buy button and clear price tag.
-
-Overall 8/10, could do with improvements.
-
-+ Nojus
-Website looks modern clean and professional, 
-Would look better with highlight when hovering over products as well as a login/register and basket/cart
-+ Harry
-While providing a variety of the latest flagship phones, the site contains a lot of errors. From misspellings to various inaccuracies in the spec sheets. Some buttons take you to the wrong page and the font doesn't fit that of an average online storefront.
