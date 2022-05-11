@@ -140,7 +140,9 @@ While providing a variety of the latest flagship phones, the site contains a lot
 
 
 &check;
-everything works exept form the facebook logo and the accessories link
++ Every Link works
++ the home page is finished
++ I have enoug
 
 # measurements for the first website
 
