@@ -133,18 +133,31 @@ While providing a variety of the latest flagship phones, the site contains a lot
  
 # navagation
 + when you click on a photo a seperate tab will open revealing more information about the product
-+ on the support tab the logos work as links to open their pages (Facebook link is not working)
++ on the support tab the logos work as links to open their pages (Facebook logo link is not working)
 
 
 
 &check;
 + Every Link works
 + the home page is finished
++ Almost every picture is sized good enough on the page
++ i have every logo in the right place apart from samsung
++ most of the tables have the correct information in it
 
 
-# measurements for the first website
-
-
+# measurements
++ Iphone 11 Pro Max height 89% width 89%
++ Iphone 12 Pro Max height20% width"20%
++ Iphone 13 Pro Max height 100% width 90%
++ Samsung s21 width: 50px height 50px
++ Samsung s22 height 100% width 100%
++ Samsung z fold 2 height 100% width 100
++ Alcatel 3l height= 100% width 15%
++ Lg G7 Thinq Height 20% width 20%
++ Motorola g200 Height 20% width 20
++ Nokia XR30 Height 20% width 20%
++ Huawie P30 pro Height 20% width=20
++ Oppo a76 height 20% width 20%
 
 
 
