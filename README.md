@@ -78,7 +78,7 @@
 
 # story board
 + # Story Board
-(1)<img src="img/readme/home page.PNG">
++ (1)<img src="img/readme/home page.PNG">
 + (2)<img src="img/readme/home page.PNG">
 
 # review
