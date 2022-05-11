@@ -91,6 +91,7 @@
 + Motorola g200 https://med.csmobiles.com/299404-large_default/motorola-moto-g200-5g-8gb-128gb-dual-sim-azul.jpg
 + huawei p40 pro https://m.media-amazon.com/images/I/61XM1qbUPUL._AC_SX522_.jpg
 + Lg G7 thinq https://www.starcity.pk/wp-content/uploads/2022/02/lg-g7-thinq-1.jpg
++ Samsung 21 https://www.backmarket.co.uk/second-hand-samsung-galaxy-s21-5g-128-gb-grey-unlocked/451238.html?shopping=gmc&gclid=EAIaIQobChMIxoyGk6zX9wIVh7PtCh2DjQXZEAQYAiABEgLNI_D_BwE#?l=11
 
 
 # videos
