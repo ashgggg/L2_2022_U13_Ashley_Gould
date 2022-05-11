@@ -1,74 +1,136 @@
 <!DOCTYPE html>
 
 
-<head>
- <link rel="stylesheet" href="style.css"/>
- <style>
-  
-  h1 {  color: rgb(255, 0, 0); text-align: center;}
-   
-   
-    * {padding: 0; margin: 0;}
-    .main {display: flex; height: 1080; width: 1920;}
-    .tophalf {display: flex; height: 440px; width: 1920px; background-color: rgb(0, 0, 0); justify-content: space-around; padding-top: 50px ;padding-bottom: 50px ;}
-    .bottomhalf {display: flex; height: 440px; width: 1920px; background-color: rgb(255, 255, 255); justify-content: space-around; padding-top: 0px ;}
-    b {color: rgb(0, 0, 0)}
-    .tophalf>div {height: 400px; width: 400px; background-color: }
-    .bottomhalf>div {height: 400px; width: 400px; background-color:  }
-   .center {display: block; margin-left:auto; margin-right: auto;}
-    .topnav {display: flex; height: 100px; width: 1920px; background-color: rgb(0, 0, 0); justify-content:space-between; padding-top: 0px ;}
-    .topnavinternal {display: flex; align-items: center; padding: 10px}
-    .topnavinternal>nav {padding: 50px; font-size: 40px;}
-    .bottomnav {display: flex; height: 100px; width: 1920px; background-color: rgb(255, 255, 255); justify-content: center; align-items: center; padding-top: 0px ;}
-    a {text-decoration: none; color: rgb(255, 255, 255); font-weight: bold;}
 
+  <head>
+    <link rel="stylesheet" href="style.css"/>
+    <style>
+       body {
+         background-color: rgb(27, 111, 207);
+       }
+       
+       
+       h1 { 
+         color: rgb(247, 0, 0);
+         }
+         * {padding: 0; margin: 0;}
+         .main {display: flex; height: 1080; width: 1920;}
+         .tophalf {display: flex; height: 540px; width: 1920px; background-color: black; justify-content: space-around; padding-top: 150px ;}
+         .bottomhalf {display: flex; height: 540px; width: 1920px; background-color: white; justify-content: space-around; padding-top: 150px ;}
+         b {color: rgb(255, 255, 255)}
+         .tophalf>div {height: 300px; width: 200px; background-color: rgb(0, 0, 0);}
+         .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 
+  
+}
+.main {display:flex;flex-wrap: wrap;justify-content: center;align-items: center;}
+.img {width:400px;height:500px;background-color: rgb(27, 111, 207);}
+.info {width:1500px;height:500px;background-color: rgb(27, 111, 207);text-align: center;}
+.vid {display:inline-block;width:1920px;height:700px;background-color: rgb(27, 111, 207);text-align: center;}
+
+      
+       </style>
+
+
+<style>
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+  
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
   </style>
-    
-  <title>Phone Shop</title>
+
+<style>
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #02A5BC;
+    padding: 10px;
+  }
+  
+  .grid-item {
+    background-color: rgba(#5BD0E0);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+  </style>
+     <title>Alcatel page</title>
+   </head>
+   
+ 
+  
 </head>
 
  <body>
+   
+  <nav> <a href="index.html"><div><img src="../img/icons/HOME_ICOM.png" style="width: 50px; height: 50px;"></a></nav>
+   <p><p style="color:rgb(0, 0, 0);">
+   <p><p style="color:rgb(0, 0, 0);">
+    <button type="button" onclick="alert('Thank you for your purchase')">Buy Now </button>
+  <div class="main">
+    
+    <div class="img"> <img src="../img/phones/alcatel3l.PNG" class=""height="100%" width="115%"></div>
+    <div class="info"><div class="grid-container">
+      <div class="grid-item">Iphone 13 Pro max</div>
+      <div class="grid-item">£1049</div>
+      <div class="grid-item">Sierra Blue</div>  
+      <div class="grid-item">Processor brand
 
-  <div class="topnav">
-    <img src="../img/icons/logo.PNG" style="margin-right: 550px">
+        Apple</div>
+      <div class="grid-item">Camera Type
+
+        Triple (3x)</div>
+      <div class="grid-item">Rear camera resolution
+        12 MP Rear Camera</div>  
+      <div class="grid-item">Intelligent Assistant
+        Siri</div>
+      <div class="grid-item">>Security features
+        Facial Recognition</div>
+      <div class="grid-item">Payment Technology
+        Apple Pay</div>  
     
+
+    <div class="grid-item">Body Material
+      Surgical-grade stainless steel, textured matt glass</div>
+    <div class="grid-item">Mobile Broadband Generation 5G</div>
+
+    <div class="grid-item">Security features
+      Facial Recognition</div>
     
+    <div class="grid-item">120hz Display</div>  
+    <div class="grid-item">Intelligent Assistant
+      Siri</div>
+    <div class="grid-item">Processor Type apple A15 Bionic 6 core</div>
+
+    
+     
   </div>
-  <div class="tophalf">                                                                                                                                   
-    <div>
-      <nav> <a href="Iphone 11 pro max.html"><img src="../img/phones/iphone 11 pro max.PNG" class="center"height="85%" width="85%"></a></nav>
-      </div>
-
-     <div>
-      <nav> <a href="iphone 12.html"><img src="../img/phones/iphone12.png" class="center"height="80%" width="80%"></a></nav>
-     </div>
-
-     <div>
-      <nav> <a href="iphone 13.html"><img src="../img/phones/iphone 13 pro max.PNG" class="center"height="120%" width="120%"></a></nav>
-      <p style="color:rgb(255, 255, 255)"></p>
-    </div> 
+    </p></div>
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/KjA55DlvepA" iframe></div>
   </div>
-
-
-    
-
- <div class="bottomnav"><img src="../img/icons/sasmiung logo.PNG"></div>
-  <div class="bottomhalf">
-    <div>
-      <nav> <a href="samsung s21.html"><img src="../img/phones/s21.PNG" class="center"height="100%"width="100%" ></a></nav>
-      
-    </div>
-
-    <div>
-    <nav> <a href="s22.html"><img src="../img/phones/s22.png" class="center"height="100%"width="100%"></a></nav>
-    </div>
-
-
-     <div>
-      <nav> <a href="foldz.html"><img src="../img/phones/Z_Fold_3_0.jpg" class="center"height="50%"width="50%"></a></nav>
-      <p style="color:rgb(0, 0, 0);"></p>
-    </div>
- </div>
   
- 
+  
+  
+
+   <div>
+     
+   </div>
+
+   <div></div>
+    
+  
  </body>
