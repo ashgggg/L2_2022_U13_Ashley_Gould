@@ -65,9 +65,8 @@
 # fonts
 
 # main
-+ I will be using Arial font because it is on Office 365
-+ I searched for a website called fontesk and downloaded the font
-+ https://fontesk.com/breeze-sans-font-family/
++ I will be using the Arial font because it is very easy to read and easy on the eyes
+
   
 
 
@@ -134,9 +133,7 @@ While providing a variety of the latest flagship phones, the site contains a lot
  
 # navagation
 + when you click on a photo a seperate tab will open revealing more information about the product
-
-
-+ on the support tab the logos work as links to open their pages (havent fixed the facebook link)
++ on the support tab the logos work as links to open their pages (Facebook link is not working)
 
 
 
