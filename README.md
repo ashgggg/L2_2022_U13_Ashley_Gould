@@ -142,7 +142,6 @@ While providing a variety of the latest flagship phones, the site contains a lot
 &check;
 + Every Link works
 + the home page is finished
-+ 
 
 # measurements for the first website
 
